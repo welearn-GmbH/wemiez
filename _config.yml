@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: [cats of welearn]
 description: [Couldn't teach them but showing them off works]
+
+defaults:
+  - scope:
+      path: "assets"
+    values:
+      image: true
